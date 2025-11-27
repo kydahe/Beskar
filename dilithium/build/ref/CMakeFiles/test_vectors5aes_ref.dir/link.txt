@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_vectors5aes_ref.dir/test/test_vectors.c.o  -o test_vectors5aes_ref  libdilithium5aes_ref.a libfips202_ref.a libaes256ctr_ref.a 

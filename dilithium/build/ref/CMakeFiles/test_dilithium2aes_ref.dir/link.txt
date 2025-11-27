@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_dilithium2aes_ref.dir/test/test_dilithium.c.o CMakeFiles/test_dilithium2aes_ref.dir/randombytes.c.o  -o test_dilithium2aes_ref  libdilithium2aes_ref.a libfips202_ref.a libaes256ctr_ref.a 

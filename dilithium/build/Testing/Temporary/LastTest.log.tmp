@@ -1,0 +1,38 @@
+Start testing: Apr 13 12:25 EDT
+----------------------------------------------------------
+1/13 Testing: dilithium2_ref
+1/13 Test: dilithium2_ref
+Command: "/home/zhan4630/pq_fl_project/dilithium/build/ref/test_dilithium2_ref"
+Directory: /home/zhan4630/pq_fl_project/dilithium/build/ref
+"dilithium2_ref" start time: Apr 13 12:25 EDT
+Output:
+----------------------------------------------------------
+CRYPTO_PUBLICKEYBYTES = 1312
+CRYPTO_SECRETKEYBYTES = 2528
+CRYPTO_BYTES = 2420
+<end of output>
+Test time =   4.95 sec
+----------------------------------------------------------
+Test Passed.
+"dilithium2_ref" end time: Apr 13 12:25 EDT
+"dilithium2_ref" time elapsed: 00:00:04
+----------------------------------------------------------
+
+2/13 Testing: dilithium2aes_ref
+2/13 Test: dilithium2aes_ref
+Command: "/home/zhan4630/pq_fl_project/dilithium/build/ref/test_dilithium2aes_ref"
+Directory: /home/zhan4630/pq_fl_project/dilithium/build/ref
+"dilithium2aes_ref" start time: Apr 13 12:25 EDT
+Output:
+----------------------------------------------------------
+CRYPTO_PUBLICKEYBYTES = 1312
+CRYPTO_SECRETKEYBYTES = 2528
+CRYPTO_BYTES = 2420
+<end of output>
+Test time =   8.23 sec
+----------------------------------------------------------
+Test Passed.
+"dilithium2aes_ref" end time: Apr 13 12:25 EDT
+"dilithium2aes_ref" time elapsed: 00:00:08
+----------------------------------------------------------
+

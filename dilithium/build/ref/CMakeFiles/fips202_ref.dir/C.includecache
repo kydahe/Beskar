@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhan4630/pq_fl_project/dilithium/ref/fips202.c
+stddef.h
+-
+stdint.h
+-
+fips202.h
+/home/zhan4630/pq_fl_project/dilithium/ref/fips202.h
+
+/home/zhan4630/pq_fl_project/dilithium/ref/fips202.h
+stddef.h
+-
+stdint.h
+-
+

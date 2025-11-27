@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/test_vectors3_ref.dir/test/test_vectors.c.o  -o test_vectors3_ref  libdilithium3_ref.a libfips202_ref.a 

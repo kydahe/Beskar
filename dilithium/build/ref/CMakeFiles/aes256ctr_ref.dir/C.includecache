@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhan4630/pq_fl_project/dilithium/ref/aes256ctr.c
+stdint.h
+-
+string.h
+-
+aes256ctr.h
+/home/zhan4630/pq_fl_project/dilithium/ref/aes256ctr.h
+
+/home/zhan4630/pq_fl_project/dilithium/ref/aes256ctr.h
+stddef.h
+-
+stdint.h
+-
+
